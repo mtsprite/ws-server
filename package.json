@@ -1,0 +1,22 @@
+{
+  "name": "ws-server",
+  "version": "0.0.1",
+  "description": "websocket test bed",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mtsprite/ws-server.git"
+  },
+  "author": "Matt Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtsprite/ws-server/issues"
+  },
+  "homepage": "https://github.com/mtsprite/ws-server#readme",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
